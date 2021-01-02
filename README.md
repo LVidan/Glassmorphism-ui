@@ -7,4 +7,4 @@ Glassmorphism is the latest trend in user interfaces and is rapidly growing in p
 Transparency- As explained above, this design resembles a virtual glass, with background blur. 
 A multi-layered approach which looks like the objects are floating in space. 
 The blurred effect is accentuated with vibrant colours. 
-A subtle border on the translucent objects. 
+<h2>A subtle border on the translucent objects. </h2>
